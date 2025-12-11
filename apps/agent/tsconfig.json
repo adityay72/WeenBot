@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    // Where compiled JavaScript goes
+    "outDir": "./dist",
+    
+    // Target JavaScript version
+    "target": "ES2020",
+    
+    // Module system for Node.js
+    "module": "commonjs",
+    
+    // Enable strict type checking
+    "strict": true,
+    
+    // Allow importing JSON files
+    "resolveJsonModule": true,
+    
+    // Generate source maps for debugging
+    "sourceMap": true,
+    
+    // Skip type checking of library files
+    "skipLibCheck": true,
+    
+    // Ensure consistent file name casing
+    "forceConsistentCasingInFileNames": true,
+    
+    // Better interop between CommonJS and ES modules
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}

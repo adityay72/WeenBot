@@ -1,0 +1,8 @@
+# PNPM Workspace Configuration
+# This tells PNPM which folders contain packages
+
+packages:
+  # All folders inside apps/ are workspaces
+  - 'apps/*'
+  # All folders inside packages/ are workspaces  
+  - 'packages/*'

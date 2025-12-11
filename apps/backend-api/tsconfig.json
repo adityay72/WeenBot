@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    // Where to output compiled JavaScript
+    "outDir": "./dist",
+    
+    // Which version of JavaScript to compile to
+    "target": "ES2020",
+    
+    // Which module system to use (Node.js uses CommonJS)
+    "module": "commonjs",
+    
+    // Enable all strict type-checking options
+    "strict": true,
+    
+    // Allow importing .json files
+    "resolveJsonModule": true,
+    
+    // Generate source maps for debugging
+    "sourceMap": true,
+    
+    // Skip type checking of declaration files (faster)
+    "skipLibCheck": true,
+    
+    // Ensure consistent casing in imports
+    "forceConsistentCasingInFileNames": true,
+    
+    // Support for CommonJS and ES Module interop
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
