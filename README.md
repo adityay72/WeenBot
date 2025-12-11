@@ -32,11 +32,16 @@ Ween AI Bot is an intelligent conversational platform that combines the power of
 
 ### Edit & Review Features
 <img width="519" height="493" alt="image" src="https://github.com/user-attachments/assets/74474358-5892-4dd9-b10f-91d21a20fce5" />
+<img width="504" height="201" alt="image" src="https://github.com/user-attachments/assets/cb1f516f-14a9-4ed0-8d5f-e74ca85d60c6" />
+
 
 
 ### Automation Workflow
-![n8n Workflow](./screenshots/n8n-workflow.png)
-*Automated notifications and data logging*
+<img width="747" height="561" alt="image" src="https://github.com/user-attachments/assets/2e632948-e557-45f6-8074-86d5a1538a9a" />
+<img width="277" height="374" alt="image" src="https://github.com/user-attachments/assets/63cf8693-92bb-4c5f-a925-251ae9ac2485" />
+<img width="697" height="203" alt="image" src="https://github.com/user-attachments/assets/e8c73f2e-4211-4765-a3b8-c4efbb9c555a" />
+
+
 
 ---
 
@@ -375,5 +380,6 @@ Contributions welcome! Follow these steps:
 ⭐ Star this repository if you find it useful!
 
 </div>
+
 
 
