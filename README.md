@@ -21,16 +21,18 @@ Ween AI Bot is an intelligent conversational platform that combines the power of
 ## 📸 Screenshots
 
 ### Main Chat Interface
-![Chat Interface](./screenshots/chat-interface.png)
-*AI-powered conversations about engineering services*
+<img width="566" height="337" alt="image" src="https://github.com/user-attachments/assets/bb57e1df-db9f-4e57-947e-3396dfa8f5c4" />
+
+<img width="527" height="576" alt="image" src="https://github.com/user-attachments/assets/41d4eef1-cbae-4d2e-8690-b8027e75a319" />
+
 
 ### Contact Form Flow
-![Contact Form](./screenshots/contact-form.png)
-*Interactive multi-step form collection*
+<img width="538" height="330" alt="image" src="https://github.com/user-attachments/assets/3b2eb4be-a087-4ad4-b5e7-cc6d200b5357" />
+
 
 ### Edit & Review Features
-![Edit Feature](./screenshots/edit-feature.png)
-*Edit any field during form filling*
+<img width="519" height="493" alt="image" src="https://github.com/user-attachments/assets/74474358-5892-4dd9-b10f-91d21a20fce5" />
+
 
 ### Automation Workflow
 ![n8n Workflow](./screenshots/n8n-workflow.png)
@@ -373,4 +375,5 @@ Contributions welcome! Follow these steps:
 ⭐ Star this repository if you find it useful!
 
 </div>
+
 
