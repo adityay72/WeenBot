@@ -1,4 +1,4 @@
-# 🤖 Ween AI Bot
+#  Ween AI Bot
 
 **AI-Powered Customer Service Bot for Engineering Companies**
 
@@ -373,3 +373,4 @@ Contributions welcome! Follow these steps:
 ⭐ Star this repository if you find it useful!
 
 </div>
+
