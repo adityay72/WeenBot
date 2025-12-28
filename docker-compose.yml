@@ -54,6 +54,8 @@ services:
       retries: 3
       start_period: 40s
 
+
+
 networks:
   bot-network:
     driver: bridge
@@ -61,3 +63,4 @@ networks:
 volumes:
   n8n_data:
     driver: local
+
